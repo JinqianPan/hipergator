@@ -201,6 +201,7 @@ For the `slurm`, you need to create a sbatch file first (the suffix is .sbatch).
 > ```
 
 #### 030202 Jupyter Notebook
+You can use [https://ood.rc.ufl.edu/](https://ood.rc.ufl.edu/) to run the code on Jupyter Notebook/Lab.
 
 ---
 
