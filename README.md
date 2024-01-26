@@ -269,4 +269,4 @@ And paste the path below. (Remamber change the UF_username and env_name)
 
 > [!CAUTION]
 > Although VScode could also open Jupyter file and find kernel use before method, the resource which we request COULD NOT use in this Jupyter.
-> If you want to use Jupyter. PLEASE go to OOD!
+> If you want to use Jupyter, PLEASE go to OOD!
