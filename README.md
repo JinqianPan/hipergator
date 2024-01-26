@@ -48,7 +48,7 @@ After typing password and select option, you are in the Hipergator.
 
 ### 0202 Through VScode
 
-[Offical Documents for VScode](https://help.rc.ufl.edu/doc/SSH_Using_VSCode)
+[Official Documents for VScode](https://help.rc.ufl.edu/doc/SSH_Using_VSCode)
 
 **Step1:** Install the Extension of SSH from extensions store.
 
@@ -73,7 +73,7 @@ Click to `Open SSH Config File`.
 
 **Step3:** Copy&Paste and edit config
 
-[Offical Documents for SSH Multiplexing](https://help.rc.ufl.edu/doc/SSH_Multiplexing)
+[Official Documents for SSH Multiplexing](https://help.rc.ufl.edu/doc/SSH_Multiplexing)
 
 ```
 Host hpg
@@ -111,3 +111,4 @@ Now you can type `ssh hpg` in the terminal to connect.
 ### 0301 Storage 
 
 [Official Documents for Storage](https://help.rc.ufl.edu/doc/Storage)
+
