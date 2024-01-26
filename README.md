@@ -1,4 +1,3 @@
-# Hipergator
 Edit by Jan 26, 2024
 
 - [01 First Step: Connect VPN](#01-first-step-connect-vpn)
@@ -6,6 +5,8 @@ Edit by Jan 26, 2024
     - [0201 Through Terminal](#0201-through-terminal)
     - [0202 Through VScode](#0202-through-vscode)
     - [0203 Connect](#0203-connect)
+
+# Hipergator
 
 HiPerGator is the University of Florida's supercomputer.
 
