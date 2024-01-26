@@ -178,6 +178,22 @@ Because connection to VScode is easy to edit our code and VScode also includes t
   <img src="./img/009.png" width="700">
 </p>
 
+**SRUN:**
+For the `srun`, you can just open the terminal from VScode and type the resourses you want. The Hipergator will allocate resources to you in your setting time (Shows in the bottom of image009). For more detail, please read the [Official Documents for Srun](https://help.rc.ufl.edu/doc/Development_and_Testing).
+
+This method is only suitable for debugging code. When debugging the code, you need to run `slurm` to complete the running of the code.
+
+**SLRUM:**
+For the `slurm`, you need to create a sbatch file first (the suffix is .sbatch). And enter the instructions you need resources into this file, then get the environment and run the python code. Just like what I show in the top and left of Image009. For more detail, please read the [Official Documents for SLURM](https://help.rc.ufl.edu/doc/Sample_SLURM_Scripts).
+
+[!TIPS]
+- module purge: clear all imported software environments.
+- module load: load the environments you want.
+```
+module purge
+module load cuda/12.2.0  intel/2020  openmpi/4.1.5 vasp/6.4.1
+```
+
 #### 030202 Jupyter Notebook
 
 ### 0303 Coding
