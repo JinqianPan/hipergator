@@ -112,3 +112,17 @@ Now you can type `ssh hpg` in the terminal to connect.
 
 [Official Documents for Storage](https://help.rc.ufl.edu/doc/Storage)
 
+The storage has be divided in 4 part: home storage, blue storage, orange storage, and red storage.
+
+Generally, we use home storage, blue storage, and orange storage.
+
+**Home Storage:** When you log in, the first thing that appears in front of you is home storage. 
+> It is permissible to keep `software builds, conda environments, text documents, and valuable scripts in $HOME` as it is somewhat protected by daily snapshots.
+
+**Blue Storage:** This part is responsible for reading and writing. Under the condition that the data can be placed, we will put the data required for code running in this area.
+
+**Orange Storage:** Data storage area (if our data can't be put in the blue storage, we will also put the data here).
+
+`Run Efficiency:` Home Storage > Blue Storage > Orange Storage
+
+`Storage Space:` Orange Storage >> Blue Storage >> Home Storage
