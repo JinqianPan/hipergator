@@ -186,7 +186,7 @@ This method is only suitable for debugging code. When debugging the code, you ne
 **SLRUM:**
 For the `slurm`, you need to create a sbatch file first (the suffix is .sbatch). And enter the instructions you need resources into this file, then get the environment and run the python code. Just like what I show in the top and left of Image009. For more detail, please read the [Official Documents for SLURM](https://help.rc.ufl.edu/doc/Sample_SLURM_Scripts).
 
-> [!TIPS]
+> [!TIP]
 > - module purge: clear all imported software environments.
 > - module load: load the environments you want.
 > ```
