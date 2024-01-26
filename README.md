@@ -87,7 +87,7 @@ There are two ways in VScode. You can see two arrows in the image006.
 
 `Now you can type` ssh hpg `in the terminal to connect.`
 <p align="center">
-  <img src="./img/007.png" width="500">
+  <img src="./img/008.png" width="500">
 </p>
 
 ## 03
