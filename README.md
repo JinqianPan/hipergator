@@ -6,8 +6,11 @@ Edit by `Jan 26, 2024`
     - [0201 Through Terminal](#0201-through-terminal)
     - [0202 Through VScode](#0202-through-vscode)
     - [0203 Connect SSH](#0203-connect-ssh)
-- [03 Introduce to Hipergator](#03-introduce-to-hipergator)
+- [03 03 Introduce to hipergator](#03-introduce-to-hipergator)
     - [0301 Storage](#0301-storage)
+        - [030101 Intro for storage](#030101-intro-for-storage)
+        - [030102 Code for accessing different storage](#030102-code-for-accessing-different-storage)
+        - [030103 Groups](#030103-groups)
 
 ***
 
@@ -110,7 +113,7 @@ Now you can type `ssh hpg` in the terminal to connect.
 
 ***
 
-## 03 Introduce to Hipergator
+## 03 Introduce to hipergator
 ### 0301 Storage 
 
 [Official Documents for Storage](https://help.rc.ufl.edu/doc/Storage)
@@ -118,6 +121,8 @@ Now you can type `ssh hpg` in the terminal to connect.
 The storage has be divided in 4 part: home storage, blue storage, orange storage, and red storage.
 
 Generally, we use home storage, blue storage, and orange storage.
+
+#### 030101 Intro for storage
 
 **Home Storage:** When you log in, the first thing that appears in front of you is home storage. 
 > It is permissible to keep `software builds, conda environments, text documents, and valuable scripts in $HOME` as it is somewhat protected by daily snapshots.
@@ -129,6 +134,8 @@ Generally, we use home storage, blue storage, and orange storage.
 `Run Efficiency:` Home Storage > Blue Storage > Orange Storage
 
 `Storage Space:` Orange Storage >> Blue Storage >> Home Storage
+
+#### 030102 Code for accessing different storage 
 
 **Path**
 ```
@@ -142,3 +149,11 @@ home_quota
 blue_quota
 orange_quota
 ```
+
+#### 030103 Groups
+
+We cannot store our data directly in storages. We need first check what group we are. And then store the data in that group.
+```
+slurmInfo
+```
+This code would display resource usage for your group.
