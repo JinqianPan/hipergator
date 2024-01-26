@@ -104,4 +104,4 @@ Now you can type `ssh hpg` in the terminal to connect.
   <img src="./img/008.png" width="500">
 </p>
 
-## 03 
+## 03 Introduce to Hipergator
