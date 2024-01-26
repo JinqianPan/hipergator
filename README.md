@@ -12,9 +12,11 @@ Edit by `Jan 26, 2024`
         - [030102 Code for accessing different storage](#030102-code-for-accessing-different-storage)
         - [030103 Groups](#030103-groups)
     - [0302 Recourses](#0302-recourses)
+        - [030201 VScode & Terminal](#030201-vscode--terminal)
+        - [030202 Jupyter Notebook](#030202-jupyter-notebook)
     - [0303 Coding](#0303-coding)
         - [030301 VScode & Terminal](#030301-vscode--terminal)
-        - [030302 Jupyter Notebook (Website, OOD)](#030302-jupyter-notebook-website-ood)
+        - [030302 Jupyter Notebook](#030302-jupyter-notebook)
 
 ***
 
@@ -163,6 +165,20 @@ slurmInfo
 This code would display resource usage for your group.
 
 ### 0302 Recourses
+We have three ways to get the computational recourses: srun, slurm, and OOD.
+
+- `srun` and `slurm` are working on terminal.
+
+- `OOD` is working on Jupyter.
+
+#### 030201 VScode & Terminal
+Because connection to VScode is easy to edit our code and VScode also includes terminal, most time, we would use VScode.
+
+<p align="center">
+  <img src="./img/009.png" width="700">
+</p>
+
+#### 030202 Jupyter Notebook
 
 ### 0303 Coding
 
@@ -173,4 +189,4 @@ In this part, we only introduce how to write Python code in VScode and Jupyter n
 **Python environments:** 
 
 
-#### 030302 Jupyter Notebook (Website, OOD)
+#### 030302 Jupyter Notebook
