@@ -1,10 +1,11 @@
 # Hipergator
 Edit by Jan 26, 2024
 
-- [01 First Step: Connect VPN]
-- [02 Via SSH connect Hipergator]
-    - [0201 Through Terminal]
-    - [0202 Through VScode]
+- [01 First Step: Connect VPN](#01-first-step-connect-vpn)
+- [02 Via SSH connect Hipergator](#02-via-ssh-connect-hipergator)
+    - [0201 Through Terminal](#0201-through-terminal)
+    - [0202 Through VScode](#0202-through-vscode)
+    - [0203 Connect](#0203-connect)
 
 HiPerGator is the University of Florida's supercomputer.
 
@@ -85,7 +86,7 @@ The last three line help for SSH Multiplexing to avoid having to go through MFA 
 </p>
 
 
-**Step4:** Connect
+### 0203 Connect
 
 There are two ways in VScode. You can see two arrows in the image006.
 <!-- ![img006](./img/006.png) -->
