@@ -57,6 +57,7 @@ Click to `Open SSH Config File`.
 
 
 **Step3:** Copy&Paste and edit config
+[Offical Documents](https://help.rc.ufl.edu/doc/SSH_Multiplexing)
 
 ```
 Host hpg
@@ -85,9 +86,9 @@ There are two ways in VScode. You can see two arrows in the image006.
 </p>
 
 
-`Now you can type` ssh hpg `in the terminal to connect.`
+Now you can type `ssh hpg` in the terminal to connect.
 <p align="center">
   <img src="./img/008.png" width="500">
 </p>
 
-## 03
+## 03 
