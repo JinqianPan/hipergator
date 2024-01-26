@@ -19,6 +19,7 @@ HiPerGator is the University of Florida's supercomputer. [Official Documents for
 Before connecting Hipergator, you need use the [Gatorlink VPN](https://it.ufl.edu/ict/documentation/network-infrastructure/vpn/). 
 >  The Gatorlink VPN service provides secure remote access to the University of Florida network and makes it appear as if your computer were physically attached to the campus network. By using the Gatorlink VPN client, you may access resources on the UF network that are not typically available over an Internet path. 
 
+***
 
 ## 02 Via SSH connect Hipergator
 
@@ -107,6 +108,8 @@ Now you can type `ssh hpg` in the terminal to connect.
   <img src="./img/008.png" width="500">
 </p>
 
+***
+
 ## 03 Introduce to Hipergator
 ### 0301 Storage 
 
@@ -126,3 +129,16 @@ Generally, we use home storage, blue storage, and orange storage.
 `Run Efficiency:` Home Storage > Blue Storage > Orange Storage
 
 `Storage Space:` Orange Storage >> Blue Storage >> Home Storage
+
+**Path**
+```
+cd /blue
+cd /orange
+```
+
+**Checking Quotas and Managing Space**
+```
+home_quota
+blue_quota
+orange_quota
+```
