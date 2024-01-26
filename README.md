@@ -6,12 +6,14 @@ Edit by `Jan 26, 2024`
     - [0201 Through Terminal](#0201-through-terminal)
     - [0202 Through VScode](#0202-through-vscode)
     - [0203 Connect SSH](#0203-connect-ssh)
+- [03 Introduce to Hipergator](#03-introduce-to-hipergator)
+    - [0301 Storage](#0301-storage)
 
 ***
 
 # Hipergator
 
-HiPerGator is the University of Florida's supercomputer.
+HiPerGator is the University of Florida's supercomputer. [Official Documents for Hipergator](https://help.rc.ufl.edu/doc/Getting_Started)
 
 ## 01 First Step: Connect VPN
 Before connecting Hipergator, you need use the [Gatorlink VPN](https://it.ufl.edu/ict/documentation/network-infrastructure/vpn/). 
@@ -46,7 +48,7 @@ After typing password and select option, you are in the Hipergator.
 
 ### 0202 Through VScode
 
-[Offical Documents](https://help.rc.ufl.edu/doc/SSH_Using_VSCode)
+[Offical Documents for VScode](https://help.rc.ufl.edu/doc/SSH_Using_VSCode)
 
 **Step1:** Install the Extension of SSH from extensions store.
 
@@ -70,7 +72,8 @@ Click to `Open SSH Config File`.
 
 
 **Step3:** Copy&Paste and edit config
-[Offical Documents](https://help.rc.ufl.edu/doc/SSH_Multiplexing)
+
+[Offical Documents for SSH Multiplexing](https://help.rc.ufl.edu/doc/SSH_Multiplexing)
 
 ```
 Host hpg
@@ -105,3 +108,6 @@ Now you can type `ssh hpg` in the terminal to connect.
 </p>
 
 ## 03 Introduce to Hipergator
+### 0301 Storage 
+
+[Official Documents for Storage](https://help.rc.ufl.edu/doc/Storage)
