@@ -16,7 +16,7 @@ ssh uf_username@hpg.rc.ufl.edu
 ```
 Please change `uf_username` to your uf username.
 
-![img001](./img/001.png)
+![img001](./img/001.png)  { width: 100px; }
 
 After typing password and select option, you are in the Hipergator.
 
