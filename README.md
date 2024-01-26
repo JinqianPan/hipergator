@@ -25,7 +25,11 @@ After typing password and select option, you are in the Hipergator.
 
 *You can use terminal to access the config, but I strongly recommand to use VScode. The guide is in 0202.*
 
-![img004](./img/004.png)
+<!-- ![img004](./img/004.png) -->
+<p align="center">
+  <img src="./img/004.png" width="500">
+</p>
+
 *Using nano could edit config file.*
 
 ### 0202 Through VScode
@@ -33,7 +37,11 @@ After typing password and select option, you are in the Hipergator.
 
 **Step1:** Install the Extension of SSH from extensions store.
 
-![img002](./img/002.png)
+<!-- ![img002](./img/002.png) -->
+<p align="center">
+  <img src="./img/002.png" width="500">
+</p>
+
 
 **Step2:** Setup SSH config
 
@@ -42,7 +50,11 @@ Click it, and `move your mouse on the SSH`, you will find the gear.
 
 Click to `Open SSH Config File`.
 
-![img003](./img/003.png)
+<!-- ![img003](./img/003.png) -->
+<p align="center">
+  <img src="./img/003.png" width="500">
+</p>
+
 
 **Step3:** Copy&Paste and edit config
 
@@ -58,12 +70,20 @@ Please change `uf_username` to your uf username.
 
 The last three line help for SSH Multiplexing to avoid having to go through MFA for every connection.
 
-![img005](./img/005.png)
+<!-- ![img005](./img/005.png) -->
+<p align="center">
+  <img src="./img/005.png" width="500">
+</p>
+
 
 **Step4:** Connect
 
 There are two ways in VScode. You can see two arrows in the image006.
-![img006](./img/006.png)
+<!-- ![img006](./img/006.png) -->
+<p align="center">
+  <img src="./img/006.png" width="500">
+</p>
+
 
 `Now you can type` ssh hpg `in the terminal to connect.`
 
