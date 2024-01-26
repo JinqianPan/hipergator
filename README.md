@@ -33,6 +33,7 @@ After typing password and select option, you are in the Hipergator.
 *Using nano could edit config file.*
 
 ### 0202 Through VScode
+
 [Offical Documents](https://help.rc.ufl.edu/doc/SSH_Using_VSCode)
 
 **Step1:** Install the Extension of SSH from extensions store.
