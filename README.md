@@ -207,9 +207,40 @@ You can use [https://ood.rc.ufl.edu/](https://ood.rc.ufl.edu/) to run the code o
 
 ### 0303 Managing Python environments and Jupyter kernels
 
-In this part, we only introduce how to write Python code in VScode and Jupyter notebook.
-
 #### 030301 Python environments
+The Hipergator has already a number of module for us. For more detail, please read the [Official Documents for Module](https://help.rc.ufl.edu/doc/Applications).
+
+For loading these module:
+```
+module load env
+```
+
+However, we always want to build our own conda environment. [Official Documents for Conda Environment](https://help.rc.ufl.edu/doc/Managing_Python_environments_and_Jupyter_kernels)
+
+For running GPU in feature, we need to install 
+```
+mamba install cudatoolkit=11.3 pytorch=1.12.1=gpu_cuda* -c pytorch
+```
+
+Before creating the environment, we need to load conda.
+```
+module load conda
+```
+
+Create the environment, change the name of the env and python version.
+```
+mamba create -n name python=3.9
+```
+
+And then you can use any command line of conda and pip.
+
+>[!TIP]
+> Everytime you want use conda, you need to load it first:
+>```
+> module load conda
+>
+> conda activate myenv
+>```
 
 
 #### 030302 Jupyter kernels
