@@ -18,7 +18,7 @@ Please change `uf_username` to your uf username.
 
 <!-- ![img001](./img/001.png) -->
 <p align="center">
-  <img src="./img/001.png" width="400">
+  <img src="./img/001.png" width="500">
 </p>
 
 After typing password and select option, you are in the Hipergator.
