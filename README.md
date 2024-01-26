@@ -17,6 +17,7 @@ Edit by `Jan 26, 2024`
     - [0303 Managing Python environments and Jupyter kernels](#0303-managing-python-environments-and-jupyter-kernels)
         - [030301 Python environments](#030301-python-environments)
         - [030302 Jupyter kernels](#030302-jupyter-kernels)
+    - [0304 Coding](#0304-coding)
 
 ***
 
@@ -244,3 +245,28 @@ And then you can use any command line of conda and pip.
 
 
 #### 030302 Jupyter kernels
+Still need to figure out how to do this.
+
+---
+
+### 0304 Coding
+
+#### 030401 VScode
+> [!WARNING]
+> Before coding in the VScode, please request resource first!
+
+After getting resource and create a python file, we first set python interpreter.
+
+First click the interpreter in the right bottom of VScode, just like image010.
+<p align="center">
+  <img src="./img/010.png" width="700">
+</p>
+
+And paste the path below. (Remamber change the UF_username and env_name)
+```
+/home/UF_username/.conda/envs/env_name/bin/
+```
+
+> [!CAUTION]
+> Although VScode could also open Jupyter file and find kernel use before method, the resource which we request COULD NOT use in this Jupyter.
+> If you want to use Jupyter. PLEASE go to OOD!
