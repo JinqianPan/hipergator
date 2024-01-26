@@ -158,7 +158,8 @@ orange_quota
 
 #### 030103 Groups
 
-We cannot store our data directly in storages. We need first check what group we are. `And then store the data in that group.`
+> [!IMPORTANT]
+> We cannot store our data directly in storages. We need first check what group we are. `And then store the data in that group.`
 ```
 slurmInfo
 ```
