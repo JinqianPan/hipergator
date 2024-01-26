@@ -1,7 +1,10 @@
 # Hipergator
 Edit by Jan 26, 2024
 
-[toc]
+- [01 First Step: Connect VPN]
+- [02 Via SSH connect Hipergator]
+    - [0201 Through Terminal]
+    - [0202 Through VScode]
 
 HiPerGator is the University of Florida's supercomputer.
 
