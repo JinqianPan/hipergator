@@ -11,6 +11,9 @@ Edit by `Jan 26, 2024`
         - [030101 Intro for storage](#030101-intro-for-storage)
         - [030102 Code for accessing different storage](#030102-code-for-accessing-different-storage)
         - [030103 Groups](#030103-groups)
+    - [0302 Coding](#0302-coding)
+        - [030201 VScode & Terminal](#030201-vscode--terminal)
+        - [030202 Jupyter Notebook (Website, OOD)](#030202-jupyter-notebook-website-ood)
 
 ***
 
@@ -157,3 +160,11 @@ We cannot store our data directly in storages. We need first check what group we
 slurmInfo
 ```
 This code would display resource usage for your group.
+
+### 0302 Coding
+
+In this part, we only introduce how to write Python code in VScode and Jupyter notebook.
+
+#### 030201 VScode & Terminal
+
+#### 030202 Jupyter Notebook (Website, OOD)
