@@ -57,6 +57,7 @@ After typing password and select option, you are in the Hipergator.
 
 *Using nano could edit config file.*
 
+---
 ### 0202 Through VScode
 
 [Official Documents for VScode](https://help.rc.ufl.edu/doc/SSH_Using_VSCode)
@@ -103,6 +104,7 @@ The last three line help for SSH Multiplexing to avoid having to go through MFA 
   <img src="./img/005.png" width="500">
 </p>
 
+---
 
 ### 0203 Connect SSH
 
@@ -166,6 +168,8 @@ slurmInfo
 ```
 This code would display resource usage for your group.
 
+---
+
 ### 0302 Recourses
 We have three ways to get the computational recourses: srun, slurm, and OOD.
 
@@ -197,6 +201,8 @@ For the `slurm`, you need to create a sbatch file first (the suffix is .sbatch).
 > ```
 
 #### 030202 Jupyter Notebook
+
+---
 
 ### 0303 Coding
 
