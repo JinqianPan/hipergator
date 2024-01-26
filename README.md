@@ -6,8 +6,8 @@ Edit by `Jan 26, 2024`
     - [0201 Through Terminal](#0201-through-terminal)
     - [0202 Through VScode](#0202-through-vscode)
     - [0203 Connect](#0203-connect)
-    
---------------------------------------
+
+***
 
 # Hipergator
 
