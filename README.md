@@ -5,7 +5,7 @@ Edit by `Jan 26, 2024`
 - [02 Via SSH connect Hipergator](#02-via-ssh-connect-hipergator)
     - [0201 Through Terminal](#0201-through-terminal)
     - [0202 Through VScode](#0202-through-vscode)
-    - [0203 Connect](#0203-connect)
+    - [0203 Connect SSH](#0203-connect-ssh)
 
 ***
 
@@ -90,7 +90,7 @@ The last three line help for SSH Multiplexing to avoid having to go through MFA 
 </p>
 
 
-### 0203 Connect
+### 0203 Connect SSH
 
 There are two ways in VScode. You can see two arrows in the image006.
 <!-- ![img006](./img/006.png) -->
