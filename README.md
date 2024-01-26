@@ -14,9 +14,9 @@ Edit by `Jan 26, 2024`
     - [0302 Recourses](#0302-recourses)
         - [030201 VScode & Terminal](#030201-vscode--terminal)
         - [030202 Jupyter Notebook](#030202-jupyter-notebook)
-    - [0303 Coding](#0303-coding)
-        - [030301 VScode & Terminal](#030301-vscode--terminal)
-        - [030302 Jupyter Notebook](#030302-jupyter-notebook)
+    - [0303 Managing Python environments and Jupyter kernels](#0303-managing-python-environments-and-jupyter-kernels)
+        - [030301 Python environments](#030301-python-environments)
+        - [030302 Jupyter kernels](#030302-jupyter-kernels)
 
 ***
 
@@ -205,13 +205,11 @@ You can use [https://ood.rc.ufl.edu/](https://ood.rc.ufl.edu/) to run the code o
 
 ---
 
-### 0303 Coding
+### 0303 Managing Python environments and Jupyter kernels
 
 In this part, we only introduce how to write Python code in VScode and Jupyter notebook.
 
-#### 030301 VScode & Terminal
-
-**Python environments:** 
+#### 030301 Python environments
 
 
-#### 030302 Jupyter Notebook
+#### 030302 Jupyter kernels
