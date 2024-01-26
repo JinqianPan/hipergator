@@ -47,7 +47,8 @@ Please change `uf_username` to your uf username.
 
 After typing password and select option, you are in the Hipergator.
 
-*You can use terminal to access the config, but I strongly recommand to use VScode. The guide is in 0202.*
+> [!TIP]
+> You can use terminal to access the config, but I strongly recommand to use VScode. The guide is in 0202.
 
 <!-- ![img004](./img/004.png) -->
 <p align="center">
@@ -137,9 +138,10 @@ Generally, we use home storage, blue storage, and orange storage.
 
 **Orange Storage:** Data storage area (if our data can't be put in the blue storage, we will also put the data here).
 
-`Run Efficiency:` Home Storage > Blue Storage > Orange Storage
+> [!IMPORTANT]
+> Run Efficiency: Home Storage > Blue Storage > Orange Storage
 
-`Storage Space:` Orange Storage >> Blue Storage >> Home Storage
+> Storage Space: Orange Storage >> Blue Storage >> Home Storage
 
 #### 030102 Code for accessing different storage 
 
