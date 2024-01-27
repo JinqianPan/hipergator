@@ -249,6 +249,8 @@ And then you can use any command line of conda and pip.
 
 > [!WARNING]
 > Still need time to figure out how to create the personal kernel. 
+>
+> You can try the method from [Official document for Jupyter](https://help.rc.ufl.edu/doc/Jupyter_Notebooks).
 
 But the hipergator provides several kernels for Jupyter. For now, I just choose the kernel most similar to the personal kernel, and install the package in it.
 
