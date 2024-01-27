@@ -49,7 +49,7 @@ Please change `uf_username` to your uf username.
 After typing password and select option, you are in the Hipergator.
 
 > [!TIP]
-> You can use terminal to access the config, but I strongly recommand to use VScode. The guide is in 0202.
+> You can use terminal to access the config, but I strongly recommand to use VScode. The guide is in [0202 Set config in VScode](#0202-through-vscode).
 
 <!-- ![img004](./img/004.png) -->
 <p align="center">
