@@ -245,7 +245,11 @@ And then you can use any command line of conda and pip.
 
 
 #### 030302 Jupyter kernels
-Still need to figure out how to do this.
+
+> [!WARNING]
+> Still need time to figure out how to create the personal kernel. 
+
+But the hipergator provides several kernels for Jupyter. For now, I just choose the kernel most similar to the personal kernel, and install the package in it.
 
 ---
 
