@@ -143,6 +143,7 @@ Generally, we use home storage, blue storage, and orange storage.
 
 > [!IMPORTANT]
 > Run Efficiency: Home Storage > Blue Storage > Orange Storage
+>
 > Storage Space: Orange Storage >> Blue Storage >> Home Storage
 
 #### 030102 Code for accessing different storage 
