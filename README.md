@@ -6,7 +6,7 @@ Edit by `Jan 27, 2024`
     - [0201 Through Terminal](#0201-through-terminal)
     - [0202 Through VScode](#0202-through-vscode)
     - [0203 Connect SSH](#0203-connect-ssh)
-- [03 03 Introduce to hipergator](#03-introduce-to-hipergator)
+- [03 Introduce to hipergator](#03-introduce-to-hipergator)
     - [0301 Storage](#0301-storage)
         - [030101 Intro for storage](#030101-intro-for-storage)
         - [030102 Code for accessing different storage](#030102-code-for-accessing-different-storage)
