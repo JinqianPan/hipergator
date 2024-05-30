@@ -166,7 +166,7 @@ orange_quota
 > [!IMPORTANT]
 > We cannot store our data directly in storages. We need first check what group we are. `And then store the data in that group.`
 ```
-slurmInfo
+slurmInfo -h
 ```
 This code would display resource usage for your group.
 
